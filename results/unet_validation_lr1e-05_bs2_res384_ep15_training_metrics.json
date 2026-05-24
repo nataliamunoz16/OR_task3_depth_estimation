@@ -1,0 +1,289 @@
+{
+    "epochs": [
+        {
+            "epoch": 1,
+            "train_loss": 0.013258412193381645,
+            "val_loss": 0.001934807385771057,
+            "train_rmse_global": 0.22573169611459323,
+            "val_rmse_global": 0.17403780727466253,
+            "train_normal_mae_global": 0.40190358473465043,
+            "val_normal_mae_global": 0.35131049242489126,
+            "train_rmse_per_image": 0.0991166626877307,
+            "val_rmse_per_image": 0.043785699668365555,
+            "train_normal_mae_per_image": 0.46965938870599655,
+            "val_normal_mae_per_image": 0.39644706400741786,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.58896873390821,
+                "latency_ms_per_image": 27.330641746520996
+            }
+        },
+        {
+            "epoch": 2,
+            "train_loss": 0.0011302992983705832,
+            "val_loss": 0.0011506224952100572,
+            "train_rmse_global": 0.18791453154333795,
+            "val_rmse_global": 0.1800716387124749,
+            "train_normal_mae_global": 0.31265813320419683,
+            "val_normal_mae_global": 0.2982445333052326,
+            "train_rmse_per_image": 0.03327057918329087,
+            "val_rmse_per_image": 0.033434381312960365,
+            "train_normal_mae_per_image": 0.32655451874480285,
+            "val_normal_mae_per_image": 0.3104643189327904,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.537114363204196,
+                "latency_ms_per_image": 27.36943006515503
+            }
+        },
+        {
+            "epoch": 3,
+            "train_loss": 0.0008912320957434509,
+            "val_loss": 0.0013574771642823676,
+            "train_rmse_global": 0.185961176629446,
+            "val_rmse_global": 0.18199393822975754,
+            "train_normal_mae_global": 0.2940178787403065,
+            "val_normal_mae_global": 0.30287443574139206,
+            "train_rmse_per_image": 0.02966465100027709,
+            "val_rmse_per_image": 0.03540694462123448,
+            "train_normal_mae_per_image": 0.2952115719579506,
+            "val_normal_mae_per_image": 0.30634320619368643,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.503541297833166,
+                "latency_ms_per_image": 27.394602298736572
+            }
+        },
+        {
+            "epoch": 4,
+            "train_loss": 0.0007904597256612691,
+            "val_loss": 0.0009479871220076744,
+            "train_rmse_global": 0.18544133432202042,
+            "val_rmse_global": 0.17707466899370594,
+            "train_normal_mae_global": 0.2863873929570716,
+            "val_normal_mae_global": 0.2720981284860939,
+            "train_rmse_per_image": 0.027975466407658824,
+            "val_rmse_per_image": 0.03033423731331276,
+            "train_normal_mae_per_image": 0.27826764444047564,
+            "val_normal_mae_per_image": 0.2702655343763156,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.51760152888663,
+                "latency_ms_per_image": 27.38405466079712
+            }
+        },
+        {
+            "epoch": 5,
+            "train_loss": 0.0007289648025309332,
+            "val_loss": 0.001340576765778327,
+            "train_rmse_global": 0.18534493533562652,
+            "val_rmse_global": 0.18308417761801446,
+            "train_normal_mae_global": 0.2815056108401224,
+            "val_normal_mae_global": 0.33428058160548046,
+            "train_rmse_per_image": 0.026847976978499496,
+            "val_rmse_per_image": 0.036062183859428464,
+            "train_normal_mae_per_image": 0.26650953882635536,
+            "val_normal_mae_per_image": 0.3466130647726808,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.51555093379766,
+                "latency_ms_per_image": 27.385592460632324
+            }
+        },
+        {
+            "epoch": 6,
+            "train_loss": 0.0006674603507873832,
+            "val_loss": 0.0009494277627577111,
+            "train_rmse_global": 0.18517976660383054,
+            "val_rmse_global": 0.1793597765803874,
+            "train_normal_mae_global": 0.2764636997701253,
+            "val_normal_mae_global": 0.2705992887244875,
+            "train_rmse_per_image": 0.025719215524597196,
+            "val_rmse_per_image": 0.030324515324455122,
+            "train_normal_mae_per_image": 0.254898221462799,
+            "val_normal_mae_per_image": 0.25984701090414397,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.50433237500281,
+                "latency_ms_per_image": 27.39400863647461
+            }
+        },
+        {
+            "epoch": 7,
+            "train_loss": 0.0006290011938900187,
+            "val_loss": 0.0008891194413931192,
+            "train_rmse_global": 0.18520554298567715,
+            "val_rmse_global": 0.1783315542284663,
+            "train_normal_mae_global": 0.27374381526033975,
+            "val_normal_mae_global": 0.26720258720132833,
+            "train_rmse_per_image": 0.02493886147338273,
+            "val_rmse_per_image": 0.02934990613511554,
+            "train_normal_mae_per_image": 0.2466907635248145,
+            "val_normal_mae_per_image": 0.24971316225510307,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.48441973924425,
+                "latency_ms_per_image": 27.40895986557007
+            }
+        },
+        {
+            "epoch": 8,
+            "train_loss": 0.0005767147969577743,
+            "val_loss": 0.0008946356536531965,
+            "train_rmse_global": 0.1850627585351595,
+            "val_rmse_global": 0.17912941203576105,
+            "train_normal_mae_global": 0.2696677406606223,
+            "val_normal_mae_global": 0.26924745879463247,
+            "train_rmse_per_image": 0.023915503078553103,
+            "val_rmse_per_image": 0.029407660159230846,
+            "train_normal_mae_per_image": 0.23661673209796102,
+            "val_normal_mae_per_image": 0.24777943206569863,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.504910613740506,
+                "latency_ms_per_image": 27.393574714660645
+            }
+        },
+        {
+            "epoch": 9,
+            "train_loss": 0.0005362986723876993,
+            "val_loss": 0.000962891248945522,
+            "train_rmse_global": 0.18502428105566318,
+            "val_rmse_global": 0.17700040110769266,
+            "train_normal_mae_global": 0.26636454216426075,
+            "val_normal_mae_global": 0.2780137393177706,
+            "train_rmse_per_image": 0.02307319697982357,
+            "val_rmse_per_image": 0.03057901378112103,
+            "train_normal_mae_per_image": 0.22781163538448165,
+            "val_normal_mae_per_image": 0.2640810582686115,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.521808354003234,
+                "latency_ms_per_image": 27.380900382995605
+            }
+        },
+        {
+            "epoch": 10,
+            "train_loss": 0.0005019836685781677,
+            "val_loss": 0.0008930707657293199,
+            "train_rmse_global": 0.18497368009539353,
+            "val_rmse_global": 0.17772770855225806,
+            "train_normal_mae_global": 0.26388147185145405,
+            "val_normal_mae_global": 0.2659378027114322,
+            "train_rmse_per_image": 0.02232381023776274,
+            "val_rmse_per_image": 0.029475559552405103,
+            "train_normal_mae_per_image": 0.2200755967778949,
+            "val_normal_mae_per_image": 0.24227360354082003,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.48631766298263,
+                "latency_ms_per_image": 27.40753412246704
+            }
+        },
+        {
+            "epoch": 11,
+            "train_loss": 0.00046958505627667935,
+            "val_loss": 0.0008726675919668529,
+            "train_rmse_global": 0.18495349897985083,
+            "val_rmse_global": 0.17868639268412553,
+            "train_normal_mae_global": 0.2612923630674879,
+            "val_normal_mae_global": 0.2648192691009017,
+            "train_rmse_per_image": 0.021594604586035977,
+            "val_rmse_per_image": 0.029065235419632768,
+            "train_normal_mae_per_image": 0.21249296143278532,
+            "val_normal_mae_per_image": 0.23482818375107864,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.57161657640322,
+                "latency_ms_per_image": 27.34360933303833
+            }
+        },
+        {
+            "epoch": 12,
+            "train_loss": 0.0004422685126030558,
+            "val_loss": 0.000911438323498495,
+            "train_rmse_global": 0.18495214603061233,
+            "val_rmse_global": 0.17849106010303686,
+            "train_normal_mae_global": 0.25956062145862147,
+            "val_normal_mae_global": 0.2722091439492914,
+            "train_rmse_per_image": 0.020957975100538054,
+            "val_rmse_per_image": 0.029745592270645778,
+            "train_normal_mae_per_image": 0.20610447052784808,
+            "val_normal_mae_per_image": 0.24562377567035043,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.41765807778129,
+                "latency_ms_per_image": 27.459206581115723
+            }
+        },
+        {
+            "epoch": 13,
+            "train_loss": 0.0004162355959938149,
+            "val_loss": 0.0009026533390173301,
+            "train_rmse_global": 0.1849577134671194,
+            "val_rmse_global": 0.17779411377440396,
+            "train_normal_mae_global": 0.25838819388052753,
+            "val_normal_mae_global": 0.26748188739424356,
+            "train_rmse_per_image": 0.02032726989182902,
+            "val_rmse_per_image": 0.029599061071575457,
+            "train_normal_mae_per_image": 0.20043297507450966,
+            "val_normal_mae_per_image": 0.2361419227746156,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.515646305206786,
+                "latency_ms_per_image": 27.385520935058594
+            }
+        },
+        {
+            "epoch": 14,
+            "train_loss": 0.0003919951453587271,
+            "val_loss": 0.0009071903394360187,
+            "train_rmse_global": 0.18493127827718162,
+            "val_rmse_global": 0.17904461444651604,
+            "train_normal_mae_global": 0.25594656036068175,
+            "val_normal_mae_global": 0.26941401100066636,
+            "train_rmse_per_image": 0.01973909116672705,
+            "val_rmse_per_image": 0.029649117883616048,
+            "train_normal_mae_per_image": 0.19397410986858032,
+            "val_normal_mae_per_image": 0.2357290314469712,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.4989607138243,
+                "latency_ms_per_image": 27.398040294647217
+            }
+        },
+        {
+            "epoch": 15,
+            "train_loss": 0.00036932789338798856,
+            "val_loss": 0.0009080717652350511,
+            "train_rmse_global": 0.18491464698443225,
+            "val_rmse_global": 0.17855975008839345,
+            "train_normal_mae_global": 0.25438966521100137,
+            "val_normal_mae_global": 0.2687062570007765,
+            "train_rmse_per_image": 0.019160465110857464,
+            "val_rmse_per_image": 0.02968378502520777,
+            "train_normal_mae_per_image": 0.18825810936070345,
+            "val_normal_mae_per_image": 0.23447681816733482,
+            "efficiency": {
+                "gpu_memory_mb": 1624.416015625,
+                "parameter_count": 31043521,
+                "fps": 36.49593409326355,
+                "latency_ms_per_image": 27.400312423706055
+            }
+        }
+    ]
+}
