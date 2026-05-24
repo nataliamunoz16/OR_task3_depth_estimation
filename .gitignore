@@ -235,3 +235,8 @@ cloth3d++_subset/
 
 results/**/*.pt
 prova.py
+figures.py
+results/qualitative_loss_best/
+results/qualitative_unet_best/
+results/qualitative_deit_best/
+test.py

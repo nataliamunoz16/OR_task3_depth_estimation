@@ -1,0 +1,21 @@
+{
+    "test_loss": 0.0008288883863334813,
+    "test_rmse_global": 0.17159573716024795,
+    "test_normal_mae_global": 0.25827419638112126,
+    "test_rmse_per_image": 0.02848551818743858,
+    "test_normal_mae_per_image": 0.23642540839852658,
+    "test_edge_rmse": 0.03249962631444089,
+    "test_non_edge_rmse": 0.0005594800808953192,
+    "test_edge_mae": 0.008599408705516547,
+    "test_non_edge_mae": 0.00010428738207443666,
+    "test_textured_rmse": 0.05617385832689163,
+    "test_smooth_rmse": 0.0022106326512602295,
+    "test_textured_mae": 0.022203773837284665,
+    "test_smooth_mae": 0.00019405757797207594,
+    "efficiency": {
+        "gpu_memory_mb": 1263.392578125,
+        "parameter_count": 31043521,
+        "fps": 27.363731373413746,
+        "latency_ms_per_image": 36.54472351074219
+    }
+}
